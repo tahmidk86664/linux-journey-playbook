@@ -14,7 +14,7 @@ Whether you are a student, a professional, or an enthusiast, hopefully, you will
 
 Explore a structured learning path for all skill levels, emphasizing hands-on experience. Embrace the open-source spirit, stay current with Linux trends, and empower yourself to master Linux. Whether you're a beginner or advanced user, gain the skills to customize your system and take control of your computing experience.
 
-**Your Linux Journey Begins Here**
+**Your Linux Journey Begins Here ...**
 
 **Happy Learning**
 
