@@ -10,3 +10,5 @@ Next, we should proceed by completing the following steps:
 4. Add the new user to sudo group.
 5. Obviously, change SSH port so that, someone cannot try to connect with default port 22.
 6. That's it for setting up a basic cloud server.
+
+**#Happy_automating_on_your_DevOps_adventure**
