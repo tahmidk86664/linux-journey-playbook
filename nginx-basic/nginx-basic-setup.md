@@ -11,7 +11,7 @@ sudo apt update
 2. Install Nginx
 
 ```
-  sudo apt install nginx
+sudo apt install nginx
 ```
 
 3. Check status of nginx
@@ -24,8 +24,17 @@ sudo systemctl status nginx
 
 ```
 server {
-  root /var/www/html
+    listen 80;
+    server_name your_domain;
 
-  location / {}
+    access_log /var/log/nginx/your_access_log_file.log;
+    error_log  /var/log/nginx/your_error_log_file.log;
+
+    root directory_of_your_application;
+    index index_file;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
 }
 ```
