@@ -26,9 +26,10 @@ _Software Engineer | DevOps Enthusiast_
 
 <br />
 <br />
+
 **Connect me with:** <br>
 <a href="https://www.linkedin.com/in/tahmid-khandokar/">
-  <img src="./images/icons8-linkedin-48.png" alt="linkedin icon"/>
+<img src="./images/icons8-linkedin-48.png" alt="linkedin icon"/>
 </a>
 
 <br />
