@@ -24,10 +24,15 @@ Explore a structured learning path for all skill levels, emphasizing hands-on ex
 **_Tahmid Khandokar_**  
 _Software Engineer | DevOps Enthusiast_
 
-<br >
-<br >
+<br />
+<br />
 Connect me with:
-[![linkedin](./images/icons8-linkedin-48.png "linkedin icon")](https://www.linkedin.com/in/tahmid-khandokar/)
+<a href="https://www.linkedin.com/in/tahmid-khandokar/">
+  <img src="./images/icons8-linkedin-48.png" alt="linkedin icon"/>
+</a>
 
-![coffe](./images/icons8-hot-coffee-48.png "coffee icon") Buy me a coffee:
+<br />
+
+<img src="./images/icons8-hot-coffee-48.png" alt="coffee icon" height="10" width="10" /> Buy me a coffee:
+
 [https://www.buymeacoffee.com/tahmidkhandokar](https://www.buymeacoffee.com/tahmidkhandokar)
