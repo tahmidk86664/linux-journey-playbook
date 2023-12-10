@@ -33,7 +33,6 @@ _Software Engineer | DevOps Enthusiast_
 </a>
 
 <br />
-<br />
 
 <img src="./images/icons8-hot-coffee-48.png" alt="coffee icon" height="20" width="20" /> **Buy me a coffee:**
 [https://www.buymeacoffee.com/tahmidkhandokar](https://www.buymeacoffee.com/tahmidkhandokar)
