@@ -26,7 +26,7 @@ _Software Engineer | DevOps Enthusiast_
 
 <br />
 <br />
-Connect me with: <br>
+**Connect me with:** <br>
 <a href="https://www.linkedin.com/in/tahmid-khandokar/">
   <img src="./images/icons8-linkedin-48.png" alt="linkedin icon"/>
 </a>
@@ -34,5 +34,5 @@ Connect me with: <br>
 <br />
 <br />
 
-<img src="./images/icons8-hot-coffee-48.png" alt="coffee icon" height="20" width="20" /> Buy me a coffee:
+<img src="./images/icons8-hot-coffee-48.png" alt="coffee icon" height="20" width="20" /> **Buy me a coffee:**
 [https://www.buymeacoffee.com/tahmidkhandokar](https://www.buymeacoffee.com/tahmidkhandokar)
